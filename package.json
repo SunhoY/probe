@@ -1,0 +1,11 @@
+{
+  "name": "probe",
+  "version": "0.0.1",
+  "description": "finding one's best fit by face",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Harry Yang",
+  "license": "MIT"
+}
